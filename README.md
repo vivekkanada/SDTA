@@ -1,4 +1,4 @@
 # SDTA
 This is My first GitHub
 <br/>
-Author - Vivek Kanada
+Author - Vivek Kanada(Apna college)
