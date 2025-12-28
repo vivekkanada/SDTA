@@ -1,2 +1,3 @@
 # SDTA
-First GitHub
+This is My first GitHub
+Vivek Kanada
